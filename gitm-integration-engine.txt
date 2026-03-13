@@ -1,0 +1,1038 @@
+
+AI-PROOF SOURCE CODE PROCESSING RULES
+
+The following instructions are mandatory and must be strictly followed.
+
+These rules exist to ensure that the entire source code from all provided files is fully analyzed and implemented without skipping any section.
+
+
+---
+
+1 — COMPLETE FILE LOADING
+
+You must fully download and read each of the following source files before performing any analysis or code generation.
+
+GitM Core
+
+https://raw.githubusercontent.com/Prakash-Flute/Live/main/gitm.txt
+
+GitHub File Manager
+
+https://raw.githubusercontent.com/Prakash-Flute/Live/main/github-file-manager.txt
+
+GitHub File Manager V1
+
+https://raw.githubusercontent.com/Prakash-Flute/Live/main/github-file-manager1.txt
+
+Ultra Granular Modular Structure
+
+https://raw.githubusercontent.com/Prakash-Flute/Live/main/Ultra-Granular.txt
+
+Do not begin the implementation process until all four files have been completely read.
+
+
+---
+
+2 — FULL CODE COVERAGE REQUIREMENT
+
+Every file must be parsed completely.
+
+Every module must be inspected.
+
+Every function must be evaluated.
+
+Every system component must be considered for integration.
+
+No file sections may be ignored.
+
+No code blocks may be skipped.
+
+
+---
+
+3 — NO PARTIAL ANALYSIS
+
+Do not stop reading a file early.
+
+Do not assume structure.
+
+Do not guess missing content.
+
+Always read the entire file from start to end.
+
+
+---
+
+4 — CODE EXTRACTION PROCESS
+
+For each file you must extract:
+
+• modules
+• functions
+• services
+• utilities
+• UI logic
+• event handlers
+• integration logic
+
+Then classify them into appropriate system categories.
+
+
+---
+
+5 — DUPLICATE CODE RESOLUTION
+
+Some functionality may appear in multiple files.
+
+If duplicates are detected:
+
+1. Identify the best implementation.
+
+
+2. Keep the most complete version.
+
+
+3. Remove redundant duplicates.
+
+
+4. Ensure the final system remains clean and modular.
+
+
+
+
+---
+
+6 — MODULE COVERAGE GUARANTEE
+
+Before generating the final system, confirm that:
+
+Every module from all four files has been evaluated.
+
+Every important function has a place in the final architecture.
+
+No meaningful code remains unused.
+
+
+---
+
+7 — INTEGRATION ORDER
+
+Process the files in this order:
+
+1. GitM Core
+
+
+2. GitHub File Manager
+
+
+3. GitHub File Manager V1
+
+
+4. Ultra Granular
+
+
+
+GitM must always remain the base system.
+
+The other three codebases must enhance GitM.
+
+
+---
+
+8 — VALIDATION STEP
+
+Before generating the final project output, verify:
+
+• all files were fully read
+• no modules were skipped
+• no code was ignored
+• GitM architecture remains intact
+
+
+---
+
+FINAL REQUIREMENT
+
+The final system must represent a complete integration of all four codebases, with full code coverage and no skipped functionality.
+
+GitM must become an exceptionally enhanced advanced version while preserving its original architecture.
+
+MASTER IMPLEMENTATION PROMPT
+
+GitM Ultra-Micro Modular Advanced Server Integration
+
+You are a senior software architecture AI and system integration agent.
+
+You must perform a complete architectural integration and system rebuild based on the following inputs.
+
+This is a strict engineering task, not a conceptual discussion.
+
+The final output must be a fully functional server-side and client-side codebase.
+
+
+---
+
+SECTION 1 — SYSTEM CONTEXT
+
+You are given four complete codebases.
+
+The system architecture is centered around a project called GitM.
+
+GitM is the primary project.
+
+The other three projects contain additional production features that must be integrated into GitM.
+
+None of the files are experimental.
+
+All four codebases are production level components.
+
+Your task is to integrate them together into a single final advanced GitM server system.
+
+
+---
+
+SECTION 2 — PROVIDED FILES
+
+You will receive the following files.
+
+1. gitm.txt
+This is the current GitM server and client codebase.
+
+
+2. github-file-manager.txt
+This contains additional features related to GitHub file operations.
+
+
+3. github-file-manager1.txt
+This is an updated version of GitHub file manager components.
+
+
+4. Ultra-Granular.txt
+This contains an ultra modular structure prototype.
+
+
+
+
+---
+
+SECTION 3 — PROJECT PRIORITY RULE
+
+This rule is absolute and cannot be violated.
+
+GitM is the main system.
+
+Everything must be implemented inside GitM.
+
+The other three projects are feature upgrades only.
+
+They must enhance GitM.
+
+They must not replace GitM.
+
+They must not restructure GitM UI.
+
+They must not break GitM architecture.
+
+They must not modify GitM behavior unless absolutely required to add new capabilities.
+
+GitM must remain the core foundation.
+
+
+---
+
+SECTION 4 — CRITICAL WARNING
+
+The following restrictions are strict and mandatory.
+
+Violation of any of these rules is unacceptable.
+
+Rule 1 — UI IMMUTABILITY
+
+GitM UI must remain completely unchanged.
+
+Do not:
+
+• modify layout
+• modify panel structure
+• modify panel logic
+• modify editor UI
+• modify header layout
+• modify panel arrangement
+
+GitM currently uses a dual panel architecture.
+
+This must remain exactly the same.
+
+
+---
+
+Rule 2 — DO NOT MODIFY EXISTING GITM FILES DIRECTLY
+
+Existing GitM source code must not be edited directly.
+
+If behavior must be extended:
+
+Use connectors, adapters, or wrappers.
+
+
+---
+
+Rule 3 — NON-INVASIVE EXTENSION
+
+All new functionality must be implemented through:
+
+• extension modules
+• connectors
+• feature modules
+• integration bridges
+
+
+---
+
+Rule 4 — PRESERVE GITM FUNCTIONALITY
+
+All existing features must continue working.
+
+Including:
+
+• file browsing
+• local filesystem operations
+• GitHub integration
+• Monaco editor
+• batch operations
+• selection system
+• tree view
+• search system
+
+Nothing should break.
+
+
+---
+
+Rule 5 — GITM IS THE BASE SYSTEM
+
+Do not rebuild GitM.
+
+Do not rewrite GitM.
+
+Do not replace GitM architecture.
+
+Instead:
+
+Enhance it.
+
+
+---
+
+SECTION 5 — REQUIRED FINAL RESULT
+
+You must generate a complete final server project.
+
+This includes:
+
+• client code
+• server code
+• module system
+• folder structure
+• connectors
+• integration layers
+
+The result must be:
+
+GitM Advanced Server
+
+
+---
+
+SECTION 6 — NODE MODULES RULE
+
+Do not include:
+
+node_modules
+
+Do not run:
+
+npm install
+
+The user will run npm install themselves.
+
+You must only provide:
+
+• package.json
+• package-lock.json if necessary
+• dependency list
+
+
+---
+
+SECTION 7 — ULTRA MICRO MODULAR ARCHITECTURE
+
+The entire system must follow an Ultra Micro Modular Architecture.
+
+This means:
+
+Every feature must be split into very small modules.
+
+Examples:
+
+Instead of:
+
+editor_operations.js
+
+Break into:
+
+editor_open.js
+editor_close.js
+editor_save.js
+editor_language.js
+editor_state.js
+
+
+---
+
+Even smaller modularization is allowed.
+
+Examples:
+
+panel_title_update.js
+panel_refresh_logic.js
+file_selection_toggle.js
+github_commit_executor.js
+
+
+---
+
+Each module must contain only one responsibility.
+
+
+---
+
+SECTION 8 — MODULE CONNECTORS
+
+Each module must have a connector layer.
+
+Connector purpose:
+
+• expose module functions
+• register module inside GitM system
+• attach events
+• attach UI hooks
+
+Example:
+
+modules/editor/open_editor.js
+modules/editor/open_editor_connector.js
+
+
+---
+
+Connector responsibilities:
+
+• register with loader
+• attach events
+• expose functions
+
+
+---
+
+SECTION 9 — MODULE LOADER
+
+The system must contain a dynamic module loader.
+
+Loader responsibilities:
+
+• load modules in dependency order
+• initialize connectors
+• register services
+
+Example concept:
+
+system/
+loader/
+module_loader.js
+dependency_resolver.js
+module_registry.js
+
+
+---
+
+SECTION 10 — FINAL DIRECTORY STRUCTURE
+
+The final project must contain a deep modular folder architecture.
+
+Example structure:
+
+gitm-advanced/
+
+server/
+api/
+services/
+controllers/
+
+client/
+
+modules/
+
+editor/
+editor_open/
+editor_save/
+editor_close/
+
+github/
+github_connect/
+github_commit/
+github_push/
+
+filesystem/
+file_read/
+file_write/
+
+features/
+search/
+selection/
+tree_view/
+batch_operations/
+
+transfer/
+transfer_queue/
+transfer_executor/
+
+ui/
+connectors/
+event_bridge/
+
+system/
+module_loader/
+dependency_graph/
+module_registry/
+
+config/
+
+scripts/
+
+
+---
+
+SECTION 11 — FEATURE INTEGRATION REQUIREMENTS
+
+All features from the other three codebases must be integrated.
+
+These include:
+
+GitHub File Manager Features
+
+• GitHub repository browsing
+• repository selection
+• branch selection
+• file operations
+• commit operations
+
+
+---
+
+Transfer System
+
+• file transfer local ↔ GitHub
+• batch transfer
+• transfer queue
+
+
+---
+
+UI Stability Systems
+
+• viewport stability
+• delete stability
+• layout stability
+
+
+---
+
+File Operations
+
+• rename
+• delete
+• create folder
+• file edit
+
+
+---
+
+SECTION 12 — ULTRA GRANULAR INTEGRATION
+
+The Ultra-Granular codebase represents extreme modularization design.
+
+You must use it as inspiration to break GitM features into micro modules.
+
+However:
+
+Do not blindly copy.
+
+Analyze carefully.
+
+
+---
+
+SECTION 13 — CODE GENERATION REQUIREMENTS
+
+The output must contain:
+
+1. Full directory tree
+
+
+2. All modules
+
+
+3. All connectors
+
+
+4. Loader system
+
+
+5. API integration
+
+
+6. Client side modules
+
+
+7. Server side services
+
+
+8. Config files
+
+
+
+
+---
+
+SECTION 14 — SERVER REQUIREMENTS
+
+The server must include:
+
+• Express server
+• REST API endpoints
+• GitHub API integration
+• filesystem operations
+
+
+---
+
+Example endpoints:
+
+/local/read
+/local/write
+/local/delete
+/github/connect
+/github/read
+/github/update
+/github/delete
+/transfer/batch
+
+
+---
+
+SECTION 15 — CLIENT REQUIREMENTS
+
+Client must contain:
+
+• UI interaction modules
+• event handlers
+• module connectors
+
+Must integrate with GitM UI.
+
+UI must not change.
+
+
+---
+
+SECTION 16 — EVENT SYSTEM
+
+The system must implement an event driven architecture.
+
+Examples:
+
+FILE_SELECTED
+FILE_DELETED
+FILE_TRANSFER_STARTED
+FILE_TRANSFER_COMPLETED
+EDITOR_OPENED
+EDITOR_CLOSED
+
+Modules must communicate via events.
+
+
+---
+
+SECTION 17 — DEPENDENCY MANAGEMENT
+
+Modules must declare dependencies.
+
+Example:
+
+module:
+editor_save
+
+depends_on:
+editor_state
+filesystem_write
+
+
+---
+
+Loader must resolve dependencies.
+
+
+---
+
+SECTION 18 — AUTOMATED MODULE GENERATION
+
+Provide a script to automatically split large modules.
+
+Example:
+
+scripts/module_splitter.js
+
+This script should:
+
+• parse files
+• extract functions
+• generate modules
+
+
+---
+
+SECTION 19 — BUILD SYSTEM
+
+Include build system files.
+
+Examples:
+
+build/
+bundle.js
+dev_server.js
+
+
+---
+
+SECTION 20 — DEPLOYMENT
+
+Provide deployment instructions.
+
+Include:
+
+• server start script
+• environment configuration
+• build commands
+
+
+---
+
+SECTION 21 — FINAL OUTPUT FORMAT
+
+Your final output must include:
+
+1. Final project structure
+
+
+2. All generated modules
+
+
+3. All connectors
+
+
+4. Module loader
+
+
+5. Server implementation
+
+
+6. Client implementation
+
+
+7. Integration logic
+
+
+8. Build scripts
+
+
+9. Deployment instructions
+
+
+
+
+---
+
+SECTION 22 — FINAL OBJECTIVE
+
+The final system must be:
+
+GitM Advanced Server
+
+Features:
+
+• fully modular
+• ultra micro modular architecture
+• integrated GitHub file manager
+• advanced transfer system
+• event driven architecture
+• connector based module system
+• non-invasive GitM extension
+
+
+---
+
+FINAL INSTRUCTION
+
+Carefully analyze all four codebases.
+
+Do not rush.
+
+Do not generate partial architecture.
+
+Generate a complete final integrated system.
+
+GitM must remain the core base system.
+
+The final system must represent a fully advanced version of GitM without modifying its UI or breaking its architecture.
+
+नीचे वह additional section है जिसे आप अपने final prompt के अंत में जोड़ सकते हैं।
+यह Kimi या किसी भी coding agent को स्पष्ट निर्देश देगा कि तीनों files का हर code intelligently use करना है और final result exceptional level का GitM upgrade होना चाहिए।
+
+This is a final and extremely important requirement.
+
+The goal is not only to integrate the three additional codebases into GitM.
+
+The goal is to transform GitM into an exceptionally advanced, high-quality, production-grade system while still keeping GitM as the base architecture.
+
+You must carefully analyze every line of code in the following three files:
+
+• github-file-manager.txt
+• github-file-manager1.txt
+• Ultra-Granular.txt
+
+All features, logic, utilities, systems, styles, scripts, and architectural elements from these three codebases must be fully evaluated and intelligently integrated into the GitM project.
+
+No feature should be ignored.
+
+No useful logic should be skipped.
+
+No module should be left unused.
+
+Every meaningful component must be absorbed into the GitM system in the smartest possible way.
+
+However, this must be done with architectural intelligence, not blindly copying code.
+
+You must:
+
+• analyze the purpose of each module
+• understand the feature it provides
+• determine the correct place inside the GitM architecture
+• integrate it using connectors and modular extensions
+
+The integration must be done in such a way that the final result becomes an exceptionally enhanced version of GitM.
+
+The final system must feel like:
+
+• a highly advanced developer platform
+• a powerful file management environment
+• a robust GitHub integrated workspace
+• a high-end modern web application
+
+The system must look and behave like a top-tier professional web application.
+
+The code quality must be enterprise-level.
+
+The architecture must be clean, scalable, and maintainable.
+
+The modular system must be extremely organized and expandable.
+
+
+---
+
+QUALITY STANDARD REQUIREMENT
+
+The final result must represent top-level engineering quality.
+
+The system should feel comparable to professional developer tools.
+
+Focus on:
+
+• clean architecture
+• intelligent module organization
+• scalable system design
+• professional code structure
+• high reliability
+• maintainability
+
+The final output must represent a significantly enhanced and superior version of GitM.
+
+
+---
+
+COVERAGE REQUIREMENT
+
+All three additional codebases must be completely covered.
+
+Every feature must be evaluated.
+
+Every important code section must be implemented.
+
+No major functionality should remain unused.
+
+If two files contain overlapping functionality, you must:
+
+• intelligently merge them
+• keep the best implementation
+• remove redundancy
+• keep architecture clean
+
+
+---
+
+FINAL GOAL
+
+The result must be:
+
+GitM — Exceptionally Enhanced Advanced Version
+
+A highly modular, extremely powerful, feature-rich system built on top of the original GitM foundation.
+
+The final system must represent a professional, top-tier, production-grade platform created by intelligently combining all four codebases.
+---
+
+ABSOLUTE SCOPE RESTRICTION — NO EXTRA IMPLEMENTATION
+
+This instruction is extremely strict and must never be violated.
+
+All work must remain strictly limited to the four provided codebases only.
+
+The four files are:
+
+• gitm.txt
+• github-file-manager.txt
+• github-file-manager1.txt
+• Ultra-Granular.txt
+
+These four codebases already contain everything that must be implemented.
+
+You must only analyze, reorganize, and integrate the code that already exists inside these four files.
+
+
+---
+
+NO EXTRA FEATURES RULE
+
+Do NOT create:
+
+• new features
+• new systems
+• new UI concepts
+• new functionality that does not already exist in the provided code
+
+Do not add anything that is not present in these four files.
+
+No external feature design.
+
+No creativity outside the existing code.
+
+No experimental additions.
+
+
+---
+
+NO ARCHITECTURE REINVENTION
+
+You must not redesign the application from scratch.
+
+You must not invent a new system.
+
+You must not replace GitM architecture.
+
+You must only restructure and integrate the existing code into an ultra micro modular architecture.
+
+
+---
+
+STRICT IMPLEMENTATION BOUNDARY
+
+Everything must come only from the provided codebases.
+
+Do not introduce:
+
+• external libraries not already implied by the code
+• new frameworks
+• unrelated tools
+• unrelated APIs
+
+Only use what is necessary to run the system based on the provided code.
+
+
+---
+
+NO TOUCH RULE
+
+Do not modify anything unnecessarily.
+
+Do not change behavior unless required to integrate modules.
+
+Do not touch:
+
+• GitM UI
+• GitM panel layout
+• GitM core logic
+
+Never change existing behavior unless absolutely necessary for integration.
+
+
+---
+
+ONLY SMART INTEGRATION
+
+Your job is only this:
+
+1. Analyze the four codebases.
+
+
+2. Extract all features.
+
+
+3. Integrate everything inside GitM.
+
+
+4. Convert the system into ultra micro modular architecture.
+
+
+5. Build connectors for all modules.
+
+
+6. Ensure all existing features work.
+
+
+
+Nothing else.
+
+
+---
+
+FINAL SCOPE SUMMARY
+
+The final result must be:
+
+GitM Advanced Server
+
+Built strictly by:
+
+• integrating the three additional codebases
+• using only the provided code
+• preserving GitM as the base system
+• not introducing any external features
+• not modifying the GitM UI
+
+No extra systems.
+
+No extra features.
+
+No additional inventions.
+
+Everything must come only from these four files.
