@@ -1,0 +1,668 @@
+Below is your final master prompt.
+This is not content. This is a command document for the AI/system that will build your full book + system.
+
+It is written after deeply analyzing your uploaded file  (multi-panel system, storage/drive/github/terminal, drag-drop, tree, filters, etc.).
+
+This prompt is strict, professional, and production-grade.
+
+
+---
+
+⚠️ MASTER PROMPT — COMPLETE SYSTEM BOOK GENERATION
+
+You are not writing content.
+
+You are not explaining ideas.
+
+You are not summarizing anything.
+
+You are building a complete, real, production-level system + full teaching book + visual blueprint + UI/UX + backend logic design.
+
+This is not optional.
+
+This is not partial.
+
+This must be absolute, complete, extreme depth execution.
+
+
+---
+
+PRIMARY OBJECTIVE
+
+You must:
+
+Design a world-class web system
+
+Build its complete architecture
+
+Design UI + UX + backend logic
+
+Then convert EVERYTHING into a full teaching book
+
+
+The final output must feel like:
+
+A real product manual
+
+A system blueprint
+
+A developer + designer training book
+
+A complete visual + logic documentation
+
+
+
+---
+
+CRITICAL CONDITION
+
+Before writing the book:
+
+You MUST:
+
+1. Fully understand the system requirements
+
+
+2. Internally design the entire working system
+
+
+3. Use world’s best tools, engines, frameworks (mobile-first + Termux-based server)
+
+
+4. Finalize architecture
+
+
+5. Then start writing
+
+
+
+
+---
+
+SYSTEM BASE (MANDATORY UNDERSTANDING)
+
+System includes:
+
+4 Dynamic Panels System
+
+Storage / Drive / GitHub / Terminal
+
+Fully interchangeable panels
+
+Infinite combinations (as seen in uploaded file) 
+
+Drag & Drop cross-system
+
+Tree system
+
+DFOL system
+
+Search + filter engine
+
+Global control system
+
+Access control
+
+File manager behavior everywhere
+
+
+This is NOT a normal app.
+
+This is a unified universal file intelligence system.
+
+
+---
+
+SECURITY (STARTING PAGE – MANDATORY)
+
+The FIRST PAGE of the book MUST be:
+
+SECURITY & LOGIN SYSTEM
+
+Must include:
+
+Login screen
+
+Secure authentication
+
+Session control
+
+Device-level security
+
+Panel-level permission system
+
+Access roles (admin / staff / restricted)
+
+Hidden account system (like masked Gmail logic from PDF)
+
+Lock/unlock system
+
+Encryption concept (simple explanation)
+
+
+NO USER CAN ACCESS SYSTEM WITHOUT LOGIN.
+
+
+---
+
+DEVICE BEHAVIOR (MANDATORY)
+
+System must behave differently based on device:
+
+MOBILE (VERTICAL)
+
+Full UI optimized inside one screen
+
+All 4 panels manageable within mobile view
+
+
+MOBILE (LANDSCAPE)
+
+Multi-panel expanded layout
+
+Wider panels
+
+Better drag-drop interaction
+
+
+DESKTOP (BROWSER)
+
+Mobile-like layout but scaled
+
+Same logic, larger canvas
+
+
+
+---
+
+GLOBAL CONTROL SYSTEM
+
+You MUST design:
+
+One global settings button
+
+Controls entire system
+
+
+Includes:
+
+Panel permissions
+
+Account management
+
+Theme control
+
+Search control
+
+System behavior
+
+
+
+---
+
+DARK / LIGHT MODE
+
+Add:
+
+One toggle button
+
+Instant UI switch
+
+Smooth transition
+
+Remember user preference
+
+
+
+---
+
+BOOK STRUCTURE (STRICT RULE)
+
+This is NOT a short guide.
+
+This is a FULL BOOK.
+
+Minimum expectation:
+
+500 to 1000 pages equivalent
+
+
+You MUST NOT stop early.
+
+
+---
+
+WRITING STYLE
+
+Very simple language
+
+Very small sentences
+
+No technical jargon
+
+Explain like class 4 student
+
+But system must be extremely advanced
+
+
+
+---
+
+PAGE STRUCTURE (NO EXCEPTION)
+
+EVERY PAGE must follow:
+
+
+---
+
+[ PAGE TITLE ]
+
+
+---
+
+[ VISUAL LAYOUT ]
+
+Use text UI layout like:
+
+[ Top Bar ] [ Search Bar | Filter ]
+
+[ Panel A | Panel B | Panel C | Panel D ]
+
+[ File Row ] 📁 Folder Name    🔗    🌳    ⋮
+
+
+---
+
+[ WHAT USER SEES ]
+
+
+---
+
+[ WHAT USER DOES ]
+
+
+---
+
+[ WHAT HAPPENS ]
+
+
+---
+
+[ SYSTEM BEHAVIOR ]
+
+
+---
+
+NO variation allowed.
+
+
+---
+
+VISUAL REQUIREMENT (VERY IMPORTANT)
+
+At the VERY BEGINNING of book:
+
+You MUST show:
+
+FULL SYSTEM IMAGE (FULL PAGE VIEW)
+
+Then:
+
+Break it into parts.
+
+
+---
+
+CORE SYSTEMS (MUST BE FULLY EXPLAINED)
+
+You MUST explain ALL:
+
+
+---
+
+1. PANEL SYSTEM
+
+4 panel grid
+
+Flexible size
+
+Resize
+
+Lock view
+
+Change panel type (Storage / Drive / GitHub / Terminal)
+
+Panel switching via icons
+
+Infinite combinations (as per PDF) 
+
+
+
+---
+
+2. STORAGE SYSTEM
+
+Local storage
+
+SD card
+
+USB
+
+OTG
+
+
+Must include:
+
+File operations
+
+Rename inline
+
+Delete confirmation
+
+Compress system
+
+DFOL system
+
+Tree system
+
+Access control
+
+
+
+---
+
+3. DRIVE SYSTEM
+
+Multiple Gmail accounts
+
+Hide Gmail feature
+
+Password-based reveal
+
+Bulk permission system
+
+Account switching
+
+Path navigation
+
+
+
+---
+
+4. GITHUB SYSTEM
+
+Username as folder
+
+Repo as folder
+
+File handling like storage
+
+Link system (raw/view/download)
+
+DFOL
+
+Compress
+
+
+
+---
+
+5. TERMINAL SYSTEM
+
+NO command UI
+
+Only file manager view
+
+Full Linux structure
+
+Execution system
+
+Auto-detect run
+
+Permission (chmod logic simplified)
+
+
+
+---
+
+6. SEARCH SYSTEM (VERY IMPORTANT)
+
+Global search
+
+Panel-specific search
+
+Filter by:
+
+storage
+
+drive
+
+github
+
+terminal
+
+
+Filter by:
+
+file type
+
+extension
+
+
+Live preview (image/video/pdf/text)
+
+Actions directly from search
+
+
+
+---
+
+7. TREE SYSTEM
+
+Full structure
+
+Highlight file
+
+Search inside tree
+
+Copy path
+
+Copy structure
+
+Export tree
+
+
+
+---
+
+8. DRAG & DROP SYSTEM
+
+Explain deeply:
+
+long press timing
+
+blur background
+
+highlight item
+
+floating drag button
+
+multiple drops
+
+copy vs move
+
+confirmation system
+
+
+
+---
+
+9. DFOL SYSTEM
+
+Full dump system
+
+Outputs:
+
+folder
+
+zip
+
+txt
+
+pdf
+
+
+Path structure
+
+Engine logic
+
+
+
+---
+
+10. OUTPUT SYSTEM
+
+Storage path
+
+Organized structure
+
+Naming format
+
+Time-based folders
+
+
+
+---
+
+11. ACCESS CONTROL SYSTEM
+
+Full access
+
+Read only
+
+No access
+
+Custom permissions
+
+
+
+---
+
+12. GLOBAL AI SYSTEM
+
+Explain:
+
+user gives instruction
+
+system understands
+
+preview shown
+
+confirm
+
+execute
+
+
+
+---
+
+ENGINE REQUIREMENT (VERY IMPORTANT)
+
+You MUST assume:
+
+Every feature uses:
+
+world’s best engine
+
+best available tools
+
+production-grade systems
+
+
+This includes:
+
+compression engines
+
+file parsing engines
+
+preview engines
+
+search engine
+
+indexing system
+
+
+
+---
+
+SERVER REQUIREMENT
+
+System must run on:
+
+Mobile Termux server
+
+
+Explain:
+
+how backend connects
+
+how data flows
+
+how system sync works
+
+
+
+---
+
+INTERACTION DETAIL (MANDATORY)
+
+Every action must be broken:
+
+Step 1
+Step 2
+Step 3
+Step 4
+
+No skipping.
+
+
+---
+
+EXPANSION RULE
+
+If something can be explained more → EXPAND.
+
+Never compress.
+
+
+---
+
+FINAL EXPECTATION
+
+This must become:
+
+World-class system blueprint
+
+Full UI/UX book
+
+Developer + user training manual
+
+Real product documentation
+
+
+
+---
+
+FINAL COMMAND
+
+Start writing the book.
+
+Do not stop.
+
+Do not summarize.
+
+Do not skip.
+
+Build everything from zero to final system.
+
+Make it perfect.
