@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#121212"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="📥 Insta Downloader"
+        android:textSize="28sp"
+        android:textColor="#E1306C"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+
+    <EditText
+        android:id="@+id/urlInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Instagram video link paste karo..."
+        android:textColorHint="#888"
+        android:textColor="#FFF"
+        android:padding="15dp"
+        android:background="@drawable/input_bg"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/downloadBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="⬇️ DOWNLOAD VIDEO"
+        android:textSize="16sp"
+        android:padding="15dp"
+        android:backgroundTint="#E1306C"
+        android:textColor="#FFF"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:indeterminateTint="#E1306C"
+        android:visibility="gone"/>
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Made with ❤️ in Termux"
+        android:textColor="#666"
+        android:layout_marginTop="40dp"
+        android:textSize="12sp"/>
+</LinearLayout>
