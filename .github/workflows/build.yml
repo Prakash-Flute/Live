@@ -3,40 +3,29 @@ name: Build APK
 on:
   push:
     branches: [ main ]
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v3
-    
-    - name: Set up JDK 17
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Set up JDK
       uses: actions/setup-java@v3
       with:
-        java-version: '17'
         distribution: 'temurin'
-        
-    - name: Setup Android SDK
-      uses: android-actions/setup-android@v2
-      
+        java-version: '17'
+
+    - name: Install Gradle
+      uses: gradle/gradle-build-action@v2
+
     - name: Build APK
-      run: |
-        chmod +x gradlew
-        ./gradlew assembleDebug
-        
+      run: gradle assembleDebug
+
     - name: Upload APK
       uses: actions/upload-artifact@v3
       with:
-        name: InstaDownloader-APK
+        name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
-        
-    - name: Create Release
-      if: github.ref == 'refs/heads/main'
-      uses: softprops/action-gh-release@v1
-      with:
-        files: app/build/outputs/apk/debug/app-debug.apk
-        tag_name: v1.0.${{ github.run_number }}
-        name: Insta Downloader v1.0.${{ github.run_number }}
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
